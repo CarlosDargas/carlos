@@ -1,0 +1,21 @@
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <title>Biografia do Yuri 22</title>
+    </head>
+    <body style="background-color: aquamarine;">
+        <h1>Yuri 22</h1>
+
+        <p style=" color:blue;">“Yuri” Brida é natural de Itapira, no interior de São Paulo. Começou jogando Free Fire de maneira
+            competitiva na extinta guilda “AnarchySons” que, posteriormente,
+            foi assumida pela INTZ. Yuri chegou a disputar a Free Fire Pro League e, no emulador, 
+           disputou também a Copa NFA e a Liga NFA</p>
+
+        <p style="background-color: aquamarine;">Yuri faz conteudo digital</p>
+
+            <img src="https://yt3.googleusercontent.com/HR4gNce_qjEsHhtPwrNXxK2Q528i5-6aLYaki3kziCfWflQaeZRzIeVbAvMUks5PO2NKb1_Skg=s900-c-k-c0x00ffffff-no-rj">
+            
+     </body>
+</html>    
